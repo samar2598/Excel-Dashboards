@@ -1,2 +1,2 @@
 # Excel-Dashboards
-This are the dashboards created using MS-Excel to analyse the tasks and create visual and interactive interface.
+This is a dashboard created using MS-Excel to analyse the stock related tasks(eg. trading, backtesting strategies etc) and create visual and interactive interface.
